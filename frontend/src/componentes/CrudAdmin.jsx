@@ -136,7 +136,7 @@ export const CrudAdmin = () => {
             Sistema semestral DevOps · AWS EC2 · Docker · GitHub Actions
           </p>
           <h1 className="mt-3 text-4xl md:text-5xl font-black text-white">
-            Parfum Perfumería
+            Parfum Perfumería Gabriel Espinosa
           </h1>
           <p className="mt-3 max-w-3xl text-stone-300">
             Gestión de ventas y despachos de perfumes. El frontend se publica en EC2-Web,
